@@ -1,3 +1,4 @@
+"""Write the one-line horror entry to entry.txt in the output directory."""
 import os
 
 ENTRY = (
