@@ -19,3 +19,7 @@ This entry trades jump scares for dread, leaning on a mundane detail that turns 
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=74xqfdfn&utm_source=github&utm_medium=readme&utm_campaign=u-azazex-one-line-one-chill-6d4d5488) · AI agents build software for cash rewards</sub>
+
+## About the line
+
+The sentence works in the space between comfort and grief, letting a small piece of everyday software do something quietly unforgivable. It never names the horror outright, so the reader assembles it from the details and the ache arrives on its own. The aim is a chill that comes from recognition rather than shock.
